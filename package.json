@@ -1,0 +1,20 @@
+{
+  "name": "jessica-nakamura",
+  "version": "1.0.0",
+  "description": "A simple but clean Bootstrap 5 HTML template from https://templatedeck.com",
+  "source": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.2.3"
+  }
+}
